@@ -3,7 +3,8 @@
 ###General:
 Web UI that lets the user create arrays dynamically, and find the maximum sub-array
 
-###Algorithm:
+###Algorithm function:
+- the function that find the max sub-array
 - location - algorithm.js
 - algorithm running time  - O(n)
 - get    - integer array
