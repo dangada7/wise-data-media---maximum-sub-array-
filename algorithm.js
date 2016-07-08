@@ -16,7 +16,7 @@ function get_startIndex_and_endIndex(arr) {
 
         currentSum = currentSum + arr[i];
 
-        if (arr[i] > currentSum) {
+        if (arr[i] >= currentSum) {
             currentSum = arr[i];
             currentStartIndex = i;
         }

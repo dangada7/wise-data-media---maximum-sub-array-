@@ -183,7 +183,7 @@ function test10() {
     var arr = [1, 2, 3, 4, 5, -15, 20];
     var ansStr = JSON.stringify(get_startIndex_and_endIndex(arr));
     var rightAnsStr = JSON.stringify({
-        maxStartIndex: 0,
+        maxStartIndex: 6,
         maxEndIndex: 6,
         maxSum: 20
     });

@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
 
-    // var sll = new LinkedList();
     var arr = []
 
     var eBtn_add = document.getElementById("add");
