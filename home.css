@@ -1,0 +1,21 @@
+
+.label {
+    border-style: solid;
+    margin: 2px;
+    margin-bottom: 10px;
+}
+
+
+.label p {
+  margin:15px;
+  text-align:center;
+  font-size: 250%;
+}
+
+#array{
+  margin-top:20px;
+}
+
+#maxSum{
+  font-size:250%
+}

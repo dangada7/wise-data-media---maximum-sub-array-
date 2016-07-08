@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+
+<head>
+    <title></title>
+    <link rel="shortcut icon" type="image/x-icon" href="logoSmall.png">
+
+    <!-- jquery  -->
+    <script src="jquery/jquery-2.0.0.min.js"></script>
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="bootstrap-3.3.6/css/bootstrap.min.css">
+    <script src="bootstrap-3.3.6/js/bootstrap.min.js"></script>
+
+    <!-- my script -->
+    <script src="algorithm.js"> </script>
+    <script src="tests.js"> </script>
+    <script src="home.js"></script>
+
+    <!-- my style -->
+    <link rel="stylesheet" type="text/css" href="home.css">
+
+</head>
+
+<body>
+
+    <div class="container" style="background:lightblue; margin-top:20px">
+
+        <div class="page-header">
+            <h1> <img src="logo.png"> <small>Maximum Sub Array - Problem</small></h1>
+        </div>
+
+        <input type="search" class="form-control" id="input-search" placeholder="New value" autofocus style="margin-bottom:10px;">
+
+        <button id='add' type="button" class="btn btn-success">
+           <span class="glyphicon glyphicon-plus"></span>
+           Add new value
+        </button>
+
+        <button id='calculate' type="button" class="btn btn-primary">
+           <span class="glyphicon glyphicon-education"></span>
+           Calculate
+        </button>
+
+        <button id='reset' type="button" class="btn btn-danger pull-right">
+           <span class="glyphicon glyphicon-remove"></span>
+           Reset the array
+        </button>
+
+        <div id="array">
+        </div>
+
+        <div id="maxSum" class="col-xs-12">
+        </div>
+
+
+    </div>
+
+
+</body>
