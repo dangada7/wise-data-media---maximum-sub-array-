@@ -1,14 +1,14 @@
 # wise data media - maximum sub array
 
 ###General:
-Web UI that lets the user create arrays dynamically, and find the maximum sub-array
+Web UI that lets the user create arrays dynamically, and find the maximum sub-array.
 
 ###Algorithm function:
-- the function that find the max sub-array
+- the function that find the max sub-array (giving an array).
+- receive - array of integers
+- return - start index, end index, max sub-array total sum.
 - location - algorithm.js
 - algorithm running time  - O(n)
-- get    - integer array
-- return - start index, end index, max sub-array
 
 ###tests:
 - location - tests.js
