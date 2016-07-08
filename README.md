@@ -6,8 +6,8 @@ Web UI that lets the user create arrays dynamically, and find the maximum sub-ar
 ###Algorithm:
 - location - algorithm.js
 - algorithm running time  - O(n)
-- get - array
-- return - start index, end index, and the max sub-array value
+- get    - integer array
+- return - start index, end index, max sub-array
 
 ###tests:
 - location - tests.js
