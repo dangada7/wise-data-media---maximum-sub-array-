@@ -13,5 +13,5 @@ Web UI that lets the user create arrays dynamically, and find the maximum sub-ar
 ###tests:
 - Location - tests.js
 - At the moment there are 12 tests
-- How to run: insert "tests" to the input bar and click on "Add new value" button
+- How to run: write "tests" inside the input bar and click on "Add new value" button
 - The tests results will be displayed in dev-tools console screen
