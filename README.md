@@ -1,4 +1,4 @@
-# wise data media - maximum sub array
+# Wise data media - maximum sub array
 
 ###General:
 Web UI that lets the user create arrays dynamically, and find the maximum sub-array.
@@ -10,7 +10,7 @@ Web UI that lets the user create arrays dynamically, and find the maximum sub-ar
 - Location - algorithm.js
 - Algorithm running time  - O(n)
 
-###tests:
+###Tests:
 - Location - tests.js
 - At the moment there are 12 tests
 - How to run: write "tests" inside the input bar and click on "Add new value" button
