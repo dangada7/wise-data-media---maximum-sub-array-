@@ -5,9 +5,9 @@ Web UI that lets the user create arrays dynamically, and find the maximum sub-ar
 
 ###Application 
 I devided the application to three parts:
-- **The web ui**
-- **The algorithm**
-- **tests**
+- **Web UI**
+- **Algorithm**
+- **Tests**
 
 ### Web UI:
 All the code that defines the web UI
