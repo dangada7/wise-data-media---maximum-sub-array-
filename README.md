@@ -4,7 +4,7 @@
 Web UI that lets the user create arrays dynamically, and find the maximum sub-array.
 
 ###Application 
-I devided the application to three parts:
+I divided the application into three parts
 - **Web UI**
 - **Algorithm**
 - **Tests**
