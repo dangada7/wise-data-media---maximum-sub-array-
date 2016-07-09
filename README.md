@@ -10,17 +10,17 @@ I devided the application to three parts:
 - **Tests**
 
 ### Web UI:
-All the code that defines the web UI
+- All the code that defines the web UI
 - **Files:** home.html, home.js, home.css
 
 ###Algorithm:
-All the code that responsible of finding maximum sub-array giving an array).
+- All the code that responsible of finding maximum sub-array giving an array).
 - **Files:** algorithm.js
 - **Algorithm running time:**  - O(n)
 
-The main function in algorithm.js:
-- **Receive:** array of integers
-- **Return:** start index, end index, max sub-array total sum.
+- The main function in algorithm.js:
+  - **Receive:** array of integers
+  - **Return:** start index, end index, max sub-array total sum.
 
 ###Tests:
 - **Files:** tests.js
