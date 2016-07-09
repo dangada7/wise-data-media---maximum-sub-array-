@@ -16,7 +16,7 @@ I divided the application into three parts
 ###Algorithm:
 - All the code that responsible of finding maximum sub-array giving an array).
 - **Files:** algorithm.js
-- **Algorithm running time:** O(n)
+- **Running time:** O(n)
 - The main function in algorithm.js:
   - **Receive:** array of integers
   - **Return:** start index, end index, max sub-array total sum.
